@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Nyx111213
-- 👀 I’m interested in moderating
+- 👋 Hi, I’m @NDivenaSlays
+- 👀 I’m interested in Python
 - 🏆 I was a moderator in Legendary Game.
-- ❤️ My passion is Chess
-- ✉️ Contact me on Twitter username is @nyx111213 OR on Mail nyx111213@gmail.com
+- ❤️ My passion is Python!
 - 🤝 That's it. Bye!
