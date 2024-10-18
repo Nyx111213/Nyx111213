@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NDivenaSlays
+- 👋 Hi, I’m @DivenaSlays
 - 👀 I’m interested in Python
-- 🏆 I was a moderator in Legendary Game.
+- 🏆 I was a moderator in Legendary Game. (It got deleted due to personal reasons.)
 - ❤️ My passion is Python!
 - 🤝 That's it. Bye!
