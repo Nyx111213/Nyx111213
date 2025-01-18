@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DivenaSlays
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, I know many things, im doing the 100 days challenge by Angela Yu. I'm at day 30!
 - 🏆 I was a moderator in Legendary Game. (It got deleted due to personal reasons.)
 - ❤️ My passion is Python!
 - 🤝 That's it. Bye!
